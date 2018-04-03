@@ -1,4 +1,4 @@
 # mysite
 a simple demo django website
-usage:
-  run runblog.py
+
+# usage:run runblog.py
